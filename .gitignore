@@ -1,0 +1,36 @@
+# Unity generated/editor state
+Game/Library/
+Game/Temp/
+Game/.utmp/
+Game/.utmp-stale-*/
+Game/Obj/
+Game/Build/
+Game/Builds/
+Game/Logs/
+Game/UserSettings/
+Game/MemoryCaptures/
+Game/Recordings/
+Game/.vs/
+Game/.idea/
+Game/.vscode/
+
+# Signing material and local credentials
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
+*.pem
+*.key
+Game/Assets/StreamingAssets/google-services.json
+Game/Assets/Resources/GoogleService-Info.plist
+*.env
+*.credentials
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local helpers
+.tmp_shots/
+Game/*.log
